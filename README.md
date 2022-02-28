@@ -76,6 +76,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
 
-> "Last year, Creed asked me how to set up a blog. Wanting to protect the world from being exposed to Creed's brain, I opened up a Word document on his computer and put an address at the top. I've read some of it. Even for the Internet, it's... pretty shocking."
+> "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Stanley Hudson</cite>
