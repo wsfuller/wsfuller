@@ -76,6 +76,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
 
-> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
+> "I had feelings today for a coworker that I haven't had in years... In my defense he was grabbing my crotch fairly aggressively at the time."
 >
-> &mdash; <cite>Phyllis Lapin</cite>
+> &mdash; <cite>Jim Halpert</cite>
