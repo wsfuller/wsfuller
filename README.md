@@ -76,6 +76,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
 
-> "I didn't realize how many of Angela's opinions I agreed with...until she tried to have my knee caps shattered for sleeping with her husband."
+> "Shut up about the sun. SHUT UP ABOUT THE SUN!"
 >
-> &mdash; <cite>Oscar Martinez</cite>
+> &mdash; <cite>Gabe Lewis</cite>
