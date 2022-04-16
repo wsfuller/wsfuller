@@ -76,6 +76,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
 
-> "I feel God in this Chili’s tonight."
+> "It has to be official, and it has to be urine."
 >
-> &mdash; <cite>Pam Beesly</cite>
+> &mdash; <cite>Dwight Schrute</cite>
