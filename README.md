@@ -76,6 +76,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
 
-> "Everybody stay calm! Stay f*&#!#% calm!"
+> "Whenever I'm about to do something, I think, 'Would an idiot do that?' And if they would, I do not do that thing."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Dwight Schrute</cite>
