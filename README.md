@@ -76,6 +76,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
 
-> "Disposable cameras are fun, but it seems a little wasteful. You never get to see your pictures. If it's an important event that you want to remember, I recommend using a real camera."
+> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
 >
-> &mdash; <cite>Erin Hannon</cite>
+> &mdash; <cite>Phyllis Lapin</cite>
