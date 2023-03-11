@@ -76,6 +76,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 I'm a huge fan of The Office and currently learning GitHub Actions. So as you do using [The Office API](https://www.officeapi.dev/), a new quote will be generated every hour:
 
-> "I feel like all my kids grew up, and then they married each other. It’s every parent’s dream."
+> "Bears, Beets, Battlestar Galactica."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Jim Halpert</cite>
