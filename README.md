@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "News flash: You are not special."
+> "I hate the idea that someone out there hates me. I even hate thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Pam Beesly</cite>
