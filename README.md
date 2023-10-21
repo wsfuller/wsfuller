@@ -1,4 +1,4 @@
-[![GitHub Banner](./assets/banner.png)](https://wsfuller.dev)
+[![GitHub Banner](./assets/images/banner.png)](https://wsfuller.dev)
 
 So you might be wondering what is "wsfuller". Well I'm actually a William but I go by my middle name Steve. So now that's out of the way, I'm a Senior Software Engineer based out of Seattle, currently working for [TED Conferences](https://www.ted.com/).
 
@@ -44,7 +44,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
 #### Testing:
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
@@ -65,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
+> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Creed Bratton</cite>
