@@ -9,8 +9,6 @@ async function main() {
   const randomQuoteIndex = Math.floor(Math.random() * quotes.length);
   const { quote, quotedBy } = quotes[randomQuoteIndex];
 
-  console.log('randomQuoteIndex: ', randomQuoteIndex);
-
   const readme = readmeTemplate
     .replace('{{office_quote}}', `${quote}`)
     .replace(

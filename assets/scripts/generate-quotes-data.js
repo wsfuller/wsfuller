@@ -31,8 +31,6 @@ async function generateQuotesArray (html) {
   const $filteredItems = $items.filter((index, element) => {
     const text = $(element).text().trim();
 
-    // console.log('text: ', text);
-
     if (text.startsWith('"') || text.startsWith('“')) return text;
   });
 
