@@ -1,5 +1,10 @@
 {
+  "scripts": {
+    "getQuotes": "node assets/scripts/generate-quotes-data.js",
+    "writeQuote": "node assets/scripts/write-new-quote.js"
+  },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "isomorphic-unfetch": "^3.1.0"
   }
 }
