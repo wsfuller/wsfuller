@@ -1,4 +1,4 @@
-[![GitHub Banner](./assets/banner.png)](https://wsfuller.dev)
+[![GitHub Banner](./assets/images/banner.png)](https://wsfuller.dev)
 
 So you might be wondering what is "wsfuller". Well I'm actually a William but I go by my middle name Steve. So now that's out of the way, I'm a Senior Software Engineer based out of Seattle, currently working for [TED Conferences](https://www.ted.com/).
 
