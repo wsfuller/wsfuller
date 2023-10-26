@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "News flash: You are not special."
+> "When you're a kid, you assume your parents are soulmates. My kids are going to be right about that."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Pam Beesley</cite>
