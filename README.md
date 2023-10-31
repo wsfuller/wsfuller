@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> ""I stopped caring a long time ago."
+> "Let me show you how a real man walks a flaccid cord."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Dwight Schrute</cite>
