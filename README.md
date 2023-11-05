@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Whenever I'm about to do something, I think, 'Would an idiot do that?' and if they would, I do not do that thing."
+> "I am running away from my responsibilities. And it feels good."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Michael Scott</cite>
