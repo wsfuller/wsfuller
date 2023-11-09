@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I don't have some cake soon, I might die."
+> "Dwight mercy-killed Angela's cat."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Pam Beesley</cite>
