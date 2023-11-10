@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Who's the one who didn't bring lice into the office? Meredith. Sure, I gave everybody pink eye once, and my ex keyed a few of their cars, and yeah, I BMed in the shredder on New Year's. But I didn't bring the lice in. That was all Pam."
+> "I am proud to announce that there is a new addition to the Martin family. She's hypoallergenic. She doesn't struggle when you try to dress her. She's a third-generation show cat. Her father was in Meet the Parents. Needless to say, she was very, very expensive."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Angela Martin</cite>
