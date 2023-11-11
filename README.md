@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I normally don't enjoy making people laugh."
+> "Who is Justice Beaver?"
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Dwight Schrute</cite>
