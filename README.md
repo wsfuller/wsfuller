@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I knew exactly what to do. But in a much more real sense, I had no idea what to do."
+> "I'm not superstitious...but I'm a little stitious."
 >
 > &mdash; <cite>Michael Scott</cite>
