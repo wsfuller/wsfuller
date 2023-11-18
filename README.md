@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am a black belt in gift wrapping."
+> "There are always a million reasons not to do something."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Jan Levinson</cite>
