@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wonder what people like about me. Probably my jugs."
+> "Me think, why waste time say lot word, when few word do trick?"
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Kevin Malone</cite>
