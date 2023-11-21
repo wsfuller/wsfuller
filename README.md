@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Well, this is what happened. Ryan's big project was the website, which wasn't doing so well. So Ryan, to give the impression of sales, recorded them twice. Once as office sales and once in the website sales, which is what we refer to in the business as 'misleading the shareholders.' Another good term is 'fraud.' The real crime, I think, was the beard."
+> "Who's the one who didn't bring lice into the office? Meredith. Sure, I gave everybody pink eye once, and my ex keyed a few of their cars, and yeah, I BMed in the shredder on New Year's. But I didn't bring the lice in. That was all Pam."
 >
-> &mdash; <cite>Oscar Martinez</cite>
+> &mdash; <cite>Meredith</cite>
