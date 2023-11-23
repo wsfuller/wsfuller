@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I mean, I'm not a slut, but, who knows!"
+> "I consider myself a good person...but I'm gonna try to make him cry."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Oscar Martinez</cite>
