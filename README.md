@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
+> "There's a lot of beauty in ordinary things. Isn't that kind of the point?"
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Pam Beesly</cite>
