@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Close your mouth, sweetie. You look like a trout."
+> "I am about to do something very bold in this job that I've never done before: try."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Jim Halpert</cite>
