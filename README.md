@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Fool me once, strike one. But fool me twice...strike three."
+> "I talk a lot, so I've learned to just tune myself out..."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
