@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I got six numbers. One more, and it would have been a complete phone number."
+> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
 >
 > &mdash; <cite>Kevin Malone</cite>
