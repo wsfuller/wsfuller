@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I miss the days when there was only one party I didn't want to go to."
+> "Whenever I'm about to do something, I think, 'Would an idiot do that?' and if they would, I do not do that thing."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Dwight Schrute</cite>
