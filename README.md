@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "How is it possible that in five years, I've had two engagements and only one chair?"
+> "Today, smoking is going to save lives."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Dwight Schrute</cite>
