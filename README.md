@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
+> "I'm fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Dwight Schrute</cite>
