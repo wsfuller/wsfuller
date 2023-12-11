@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I don't hate it. I just don't like it at all. And it's terrible."
+> "PowerPoints are the peacocks of the business world; all show, no meat."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Dwight Schrute</cite>
