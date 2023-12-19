@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I can't scuba, then what's this all been about? What am I working toward?"
+> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Michael Scott</cite>
