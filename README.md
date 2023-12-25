@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
+> "The Dunder Mifflin stock symbol is D.M.I. Do you know what that stands for? Dummies, Morons, and Idiots. Because that's what you'd have to be to own it. And as one of those idiots, I believe the board owes me answers."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Oscar Martinez</cite>
