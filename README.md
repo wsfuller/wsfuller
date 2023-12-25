@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "You guys I'm, like, really smart now. You don't even know. You could ask me, 'Kelly, what's the biggest company in the world?' And I'd be like, 'blah blah blah, blah blah blah blah blah blah.' Giving you the exact right answer."
+> "Michael is leaving. And apparently, they've already hired a new manager. And we're meeting him today! It's a lot to proces"
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>paperwork-wise.”</cite>
