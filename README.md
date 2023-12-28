@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I miss the days when there was only one party I didn't want to go to."
+> "I'm guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes. Pennies. Walnuts."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Pam Beesley</cite>
