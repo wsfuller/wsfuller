@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am about to do something very bold in this job that I've never done before: try."
+> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Michael Scott</cite>
