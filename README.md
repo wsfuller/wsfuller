@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Why are you the way that you are?"
+> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Angela Martin</cite>
