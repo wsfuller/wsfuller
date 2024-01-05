@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell him to call me ASAP as possible."
+> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Andy Bernard</cite>
