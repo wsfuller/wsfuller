@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
+> "Tell ya one thing, I'm not gonna be a good mom tonight."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Meredith</cite>
