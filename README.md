@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
+> "Mind if I steal my wife?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Bob Vance</cite>
