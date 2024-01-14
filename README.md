@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."
+> "I consider myself a good person...but I'm gonna try to make him cry."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Oscar Martinez</cite>
