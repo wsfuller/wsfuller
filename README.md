@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
+> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
 >
 > &mdash; <cite>Michael Scott</cite>
