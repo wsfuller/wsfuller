@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I find the mystery genre disgusting. I hate being titillated."
+> "Fool me once, strike one. But fool me twice...strike three."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Michael Scott</cite>
