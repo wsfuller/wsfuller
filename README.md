@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "Whenever I'm about to do something, I think, 'Would an idiot do that?' and if they would, I do not do that thing."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Dwight Schrute</cite>
