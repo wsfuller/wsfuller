@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am a black belt in gift wrapping."
+> "I talk a lot, so I've learned to just tune myself out..."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
