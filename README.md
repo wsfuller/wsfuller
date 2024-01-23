@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Yeah, I have a lot of questions. First of all: How dare you?"
+> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Kevin Malone</cite>
