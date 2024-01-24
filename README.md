@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bears, beets, Battlestar Galactica."
+> "Let me show you how a real man walks a flaccid cord."
 >
-> &mdash; <cite>Jim Halpert (pretending to be Dwight)</cite>
+> &mdash; <cite>Dwight Schrute</cite>
