@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "There are always a million reasons not to do something."
+> "PowerPoints are the peacocks of the business world; all show, no meat."
 >
-> &mdash; <cite>Jan Levinson</cite>
+> &mdash; <cite>Dwight Schrute</cite>
