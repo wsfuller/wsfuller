@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "And I feel God in this Chili's tonight."
+> "Dwight, you ignorant slut."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Michael Scott</cite>
