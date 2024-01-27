@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
+> "I consider myself a good person...but I'm gonna try to make him cry."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Oscar Martinez</cite>
