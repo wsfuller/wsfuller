@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "How is it possible that in five years, I've had two engagements and only one chair?"
+> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Angela Martin</cite>
