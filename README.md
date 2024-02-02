@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "PowerPoints are the peacocks of the business world; all show, no meat."
+> "Mind if I steal my wife?"
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Bob Vance</cite>
