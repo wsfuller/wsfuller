@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Mind if I steal my wife?"
+> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Michael Scott</cite>
