@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
+> "If I were buying my coffin, I would get one with thicker walls so you couldn't hear the other dead people."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Dwight Schrute</cite>
