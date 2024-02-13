@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Boy, have you done lost your mind? Cause I'll help you find it!"
+> "If I don't have some cake soon, I might die."
 >
 > &mdash; <cite>Stanley Hudson</cite>
