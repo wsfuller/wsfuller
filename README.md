@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Creed Bratton</cite>
