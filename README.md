@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
+> "Who says exactly what they're thinking? What kind of a game is that?"
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
