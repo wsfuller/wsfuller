@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I find the mystery genre disgusting. I hate being titillated."
+> "I miss the days when there was only one party I didn't want to go to."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Ryan Howard</cite>
