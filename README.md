@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "I consider myself a good person...but I'm gonna try to make him cry."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Oscar Martinez</cite>
