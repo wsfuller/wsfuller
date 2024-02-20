@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "I consider myself a good person...but I'm gonna try to make him cry."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Oscar Martinez</cite>
