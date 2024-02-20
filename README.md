@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I knew exactly what to do. But in a much more real sense, I had no idea what to do."
+> "How is it possible that in five years, I've had two engagements and only one chair?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Pam Beesley</cite>
