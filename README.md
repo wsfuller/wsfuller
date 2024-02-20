@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I consider myself a good person...but I'm gonna try to make him cry."
+> "Bears, beets, Battlestar Galactica."
 >
-> &mdash; <cite>Oscar Martinez</cite>
+> &mdash; <cite>Jim Halpert (pretending to be Dwight)</cite>
