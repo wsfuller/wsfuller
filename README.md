@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I guess I've been working so hard, I forgot what it's like to be hardly working."
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Kevin Malone</cite>
