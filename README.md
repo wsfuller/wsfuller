@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
+> "Boy, have you done lost your mind? Cause I'll help you find it!"
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Stanley Hudson</cite>
