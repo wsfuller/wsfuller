@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am faster than 80 percent of all snakes."
+> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Jim Halpert</cite>
