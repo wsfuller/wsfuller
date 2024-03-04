@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "PowerPoints are the peacocks of the business world; all show, no meat."
+> "Sorry I annoyed you with my friendship."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Andy Bernard</cite>
