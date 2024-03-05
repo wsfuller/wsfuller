@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Oh, I don't think it's blackmail. Angela just does what I ask her to do, so I won't tell everyone that she's cheating on Andy with Dwight. I think for it to be blackmail, it would have to be a formal letter."
+> "Yeah, I'm not a temp anymore. I got Jim's old job. Which means at my 10-year high school reunion, it will not say ‘Ryan Howard is a temp.' It will say, ‘Ryan Howard is a junior sales associate at a mid-range paper supply firm.' That'll show 'em."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Ryan Howard</cite>
