@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Boy, have you done lost your mind? Cause I'll help you find it!"
+> "There's a lot of beauty in ordinary things. Isn't that kind of the point?"
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Pam Beesly</cite>
