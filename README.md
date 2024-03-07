@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
+> "I mean, I'm not a slut, but, who knows!"
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
