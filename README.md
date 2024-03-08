@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
+> "Me think, why waste time say lot word, when few word do trick?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Kevin Malone</cite>
