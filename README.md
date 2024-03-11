@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I got six numbers. One more, and it would have been a complete phone number."
+> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Jim Halpert</cite>
