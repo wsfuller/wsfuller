@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "There's a lot of beauty in ordinary things. Isn't that kind of the point?"
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Pam Beesly</cite>
