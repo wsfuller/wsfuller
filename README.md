@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes. Pennies. Walnuts."
+> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Angela Martin</cite>
