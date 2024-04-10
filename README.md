@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Oh, I don't think it's blackmail. Angela just does what I ask her to do, so I won't tell everyone that she's cheating on Andy with Dwight. I think for it to be blackmail, it would have to be a formal letter."
+> "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Stanley Hudson</cite>
