@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I don't want to be married in a tent like a hobo."
+> "I talk a lot, so I've learned to just tune myself out..."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
