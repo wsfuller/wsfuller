@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "A few years ago, my family was on a safari in Africa and my cousin, Mufasa, was um, he was trampled to death by a pack of wildebeests and um, we all took it really hard."
+> "The Dunder Mifflin stock symbol is D.M.I. Do you know what that stands for? Dummies, Morons, and Idiots. Because that's what you'd have to be to own it. And as one of those idiots, I believe the board owes me answers."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Oscar Martinez</cite>
