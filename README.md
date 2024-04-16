@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Let me show you how a real man walks a flaccid cord."
+> "Close your mouth, sweetie. You look like a trout."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Phyllis Vance</cite>
