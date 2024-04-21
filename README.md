@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Right now, this is just a job. If I advance any higher in this company, this would be my career. And, uh, well if this were my career, I'd have to throw myself in front of a train."
+> "Well, this is what happened. Ryan's big project was the website, which wasn't doing so well. So Ryan, to give the impression of sales, recorded them twice. Once as office sales and once in the website sales, which is what we refer to in the business as 'misleading the shareholders.' Another good term is 'fraud.' The real crime, I think, was the beard."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Oscar Martinez</cite>
