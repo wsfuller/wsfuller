@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "News flash: You are not special."
+> "Michael is leaving. And apparently, they've already hired a new manager. And we're meeting him today! It's a lot to proces"
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>paperwork-wise.”</cite>
