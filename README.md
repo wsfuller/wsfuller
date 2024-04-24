@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am faster than 80 percent of all snakes."
+> "And I feel God in this Chili's tonight."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Pam Beesley</cite>
