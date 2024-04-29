@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sorry I annoyed you with my friendship."
+> "Close your mouth, sweetie. You look like a trout."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Phyllis Vance</cite>
