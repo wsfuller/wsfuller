@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Fool me once, strike one. But fool me twice...strike three."
+> "If I don't have some cake soon, I might die."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Stanley Hudson</cite>
