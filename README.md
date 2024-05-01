@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When you're a kid, you assume your parents are soulmates. My kids are going to be right about that."
+> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Kevin Malone</cite>
