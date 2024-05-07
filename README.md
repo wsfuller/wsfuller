@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "You guys I'm, like, really smart now. You don't even know. You could ask me, 'Kelly, what's the biggest company in the world?' And I'd be like, 'blah blah blah, blah blah blah blah blah blah.' Giving you the exact right answer."
+> "I wish there was a way to know you're in the good old days before you've actually left them."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Andy Bernard</cite>
