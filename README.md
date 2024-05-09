@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wish there was a way to know you're in the good old days before you've actually left them."
+> "Michael is leaving. And apparently, they've already hired a new manager. And we're meeting him today! It's a lot to proces"
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>paperwork-wise.”</cite>
