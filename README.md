@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
+> "I don't want to be married in a tent like a hobo."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Angela Martin</cite>
