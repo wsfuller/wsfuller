@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "You guys I'm, like, really smart now. You don't even know. You could ask me, 'Kelly, what's the biggest company in the world?' And I'd be like, 'blah blah blah, blah blah blah blah blah blah.' Giving you the exact right answer."
+> "Sometimes I get so bored, I just want to scream. And then sometimes, I actually do scream. I just sort of feel out what the situation calls for."
 >
 > &mdash; <cite>Kelly Kapoor</cite>
