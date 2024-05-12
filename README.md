@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
+> "Let me show you how a real man walks a flaccid cord."
 >
 > &mdash; <cite>Dwight Schrute</cite>
