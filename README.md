@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Whenever I'm about to do something, I think, 'Would an idiot do that?' and if they would, I do not do that thing."
+> "I love inside jokes. I'd love to be a part of one someday."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Michael Scott</cite>
