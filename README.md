@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "News flash: You are not special."
+> "I talk a lot, so I've learned to just tune myself out..."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
