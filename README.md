@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "Let me show you how a real man walks a flaccid cord."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Dwight Schrute</cite>
