@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I don't hate it. I just don't like it at all. And it's terrible."
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
 > &mdash; <cite>Michael Scott</cite>
