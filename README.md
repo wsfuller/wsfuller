@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "I don't hate it. I just don't like it at all. And it's terrible."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Michael Scott</cite>
