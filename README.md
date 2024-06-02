@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "I love inside jokes. I'd love to be a part of one someday."
 >
 > &mdash; <cite>Michael Scott</cite>
