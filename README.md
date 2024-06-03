@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bears, beets, Battlestar Galactica."
+> "I don't want to be married in a tent like a hobo."
 >
-> &mdash; <cite>Jim Halpert (pretending to be Dwight)</cite>
+> &mdash; <cite>Angela Martin</cite>
