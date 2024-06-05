@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bears, beets, Battlestar Galactica."
+> "Fool me once, strike one. But fool me twice...strike three."
 >
-> &mdash; <cite>Jim Halpert (pretending to be Dwight)</cite>
+> &mdash; <cite>Michael Scott</cite>
