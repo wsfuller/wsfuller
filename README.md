@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I would say I kind of have an unfair advantage, because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers."
+> "Who's the one who didn't bring lice into the office? Meredith. Sure, I gave everybody pink eye once, and my ex keyed a few of their cars, and yeah, I BMed in the shredder on New Year's. But I didn't bring the lice in. That was all Pam."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Meredith</cite>
