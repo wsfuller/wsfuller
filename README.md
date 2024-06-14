@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I miss the days when there was only one party I didn't want to go to."
+> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Michael Scott</cite>
