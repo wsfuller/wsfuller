@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
+> "There are always a million reasons not to do something."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Jan Levinson</cite>
