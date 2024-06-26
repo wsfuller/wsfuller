@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
+> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Michael Scott</cite>
