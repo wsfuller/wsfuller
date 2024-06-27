@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I got six numbers. One more, and it would have been a complete phone number."
+> "If I were buying my coffin, I would get one with thicker walls so you couldn't hear the other dead people."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Dwight Schrute</cite>
