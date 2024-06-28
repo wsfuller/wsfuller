@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
+> "Yeah, I'm not a temp anymore. I got Jim's old job. Which means at my 10-year high school reunion, it will not say ‘Ryan Howard is a temp.' It will say, ‘Ryan Howard is a junior sales associate at a mid-range paper supply firm.' That'll show 'em."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Ryan Howard</cite>
