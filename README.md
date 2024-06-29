@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I would say I kind of have an unfair advantage, because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers."
+> "I am faster than 80 percent of all snakes."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Dwight Schrute</cite>
