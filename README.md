@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Mind if I steal my wife?"
+> "I am faster than 80 percent of all snakes."
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Dwight Schrute</cite>
