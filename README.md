@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I have been trying to get on jury duty every year since I was 18 years old. To get to go sit in an air-conditioned room, downtown, judging people, while my lunch is paid for… that is the life."
+> "Guess what, I have flaws. What are they? Oh, I don't know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I'll hit somebody with my car. So sue me...no, don't sue me. That is the opposite of the point that I'm trying to make."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Michael Scott</cite>
