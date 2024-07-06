@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Stanley just drank OJ out of my mug and didn't seem to realize that it wasn't his hot coffee. So, the question has to be asked: Is there no limit to what he won't notice?"
+> "Any man who says he totally understands women is a fool. Because they are un-understandable."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Michael Scott</cite>
