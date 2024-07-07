@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I can't scuba, then what's this all been about? What am I working toward?"
+> "Who says exactly what they're thinking? What kind of a game is that?"
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
