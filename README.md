@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> ""I stopped caring a long time ago."
+> "I miss the days when there was only one party I didn't want to go to."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Ryan Howard</cite>
