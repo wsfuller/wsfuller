@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Should have burned this place down when I had a chance."
+> "There are always a million reasons not to do something."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Jan Levinson</cite>
