@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I don't have some cake soon, I might die."
+> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Andy Bernard</cite>
