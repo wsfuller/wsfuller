@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Stanley just drank OJ out of my mug and didn't seem to realize that it wasn't his hot coffee. So, the question has to be asked: Is there no limit to what he won't notice?"
+> "I'm fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Dwight Schrute</cite>
