@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
+> "I consider myself a good person...but I'm gonna try to make him cry."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Oscar Martinez</cite>
