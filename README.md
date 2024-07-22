@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I love inside jokes. I'd love to be a part of one someday."
+> "Should have burned this place down when I had a chance."
 >
 > &mdash; <cite>Michael Scott</cite>
