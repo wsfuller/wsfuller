@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "You guys I'm, like, really smart now. You don't even know. You could ask me, 'Kelly, what's the biggest company in the world?' And I'd be like, 'blah blah blah, blah blah blah blah blah blah.' Giving you the exact right answer."
+> "I hate the idea that someone out there hates me. I even hate thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Pam Beesly</cite>
