@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Phyllis Vance</cite>
