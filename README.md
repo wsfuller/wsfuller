@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I don't hate it. I just don't like it at all. And it's terrible."
+> "How is it possible that in five years, I've had two engagements and only one chair?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Pam Beesley</cite>
