@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I talk a lot, so I've learned to just tune myself out..."
+> "I guess I've been working so hard, I forgot what it's like to be hardly working."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Michael Scott</cite>
