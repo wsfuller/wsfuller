@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am proud to announce that there is a new addition to the Martin family. She's hypoallergenic. She doesn't struggle when you try to dress her. She's a third-generation show cat. Her father was in Meet the Parents. Needless to say, she was very, very expensive."
+> "Well, this is what happened. Ryan's big project was the website, which wasn't doing so well. So Ryan, to give the impression of sales, recorded them twice. Once as office sales and once in the website sales, which is what we refer to in the business as 'misleading the shareholders.' Another good term is 'fraud.' The real crime, I think, was the beard."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Oscar Martinez</cite>
