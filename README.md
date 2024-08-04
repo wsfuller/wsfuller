@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I hate the idea that someone out there hates me. I even hate thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me."
+> "PowerPoints are the peacocks of the business world; all show, no meat."
 >
-> &mdash; <cite>Pam Beesly</cite>
+> &mdash; <cite>Dwight Schrute</cite>
