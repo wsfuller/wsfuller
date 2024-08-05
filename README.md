@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Yeah, I'm not a temp anymore. I got Jim's old job. Which means at my 10-year high school reunion, it will not say ‘Ryan Howard is a temp.' It will say, ‘Ryan Howard is a junior sales associate at a mid-range paper supply firm.' That'll show 'em."
+> "I hate the idea that someone out there hates me. I even hate thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Pam Beesly</cite>
