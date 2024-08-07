@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
+> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Michael Scott</cite>
