@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I would say I kind of have an unfair advantage, because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers."
+> "You know what they say about a car wreck, where it's so awful you can't look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making you."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Pam Beesley</cite>
