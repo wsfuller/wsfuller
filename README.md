@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
+> "I wish there was a way to know you're in the good old days before you've actually left them."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Andy Bernard</cite>
