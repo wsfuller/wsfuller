@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Kevin Malone</cite>
