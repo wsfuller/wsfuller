@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. Just one stunning, gorgeous cartwheel."
+> "When you're a kid, you assume your parents are soulmates. My kids are going to be right about that."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Pam Beesley</cite>
