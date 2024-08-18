@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
+> "I hate the idea that someone out there hates me. I even hate thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Pam Beesly</cite>
