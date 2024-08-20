@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am faster than 80 percent of all snakes."
+> "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Creed Bratton</cite>
