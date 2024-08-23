@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes. Pennies. Walnuts."
+> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Creed Bratton</cite>
