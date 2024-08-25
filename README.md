@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
+> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Jim Halpert</cite>
