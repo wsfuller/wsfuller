@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wish there was a way to know you're in the good old days before you've actually left them."
+> "I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. Just one stunning, gorgeous cartwheel."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Creed Bratton</cite>
