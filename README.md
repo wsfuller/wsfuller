@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "PowerPoints are the peacocks of the business world; all show, no meat."
+> "Michael is leaving. And apparently, they've already hired a new manager. And we're meeting him today! It's a lot to proces"
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>paperwork-wise.”</cite>
