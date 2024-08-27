@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Oh, you're paying way too much for worms, man. Who's your worm guy?"
+> "Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way. Like an improv conversation."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Michael Scott</cite>
