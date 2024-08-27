@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bears, beets, Battlestar Galactica."
+> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
 >
-> &mdash; <cite>Jim Halpert (pretending to be Dwight)</cite>
+> &mdash; <cite>Angela Martin</cite>
