@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I guess I've been working so hard, I forgot what it's like to be hardly working."
+> "I am a black belt in gift wrapping."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Jim Halpert</cite>
