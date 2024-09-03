@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Who says exactly what they're thinking? What kind of a game is that?"
+> "Yes, I have a dream, and it's not some MLK dream for equality. I want to own a decommissioned lighthouse. And I want to live at the top. And nobody knows I live there. And there's a button that I can press, and launch that lighthouse into space."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Stanley Hudson</cite>
