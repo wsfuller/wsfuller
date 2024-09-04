@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Yeah, I have a lot of questions. First of all: How dare you?"
+> "Bob Vance, Vance Refrigeration."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Bob Vance</cite>
