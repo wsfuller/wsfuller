@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell him to call me ASAP as possible."
+> "Sorry I annoyed you with my friendship."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Andy Bernard</cite>
