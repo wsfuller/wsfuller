@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "There are always a million reasons not to do something."
+> "Yeah, I have a lot of questions. First of all: How dare you?"
 >
-> &mdash; <cite>Jan Levinson</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
