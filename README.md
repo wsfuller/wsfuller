@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I miss the days when there was only one party I didn't want to go to."
+> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Creed Bratton</cite>
