@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way. Like an improv conversation."
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
 > &mdash; <cite>Michael Scott</cite>
