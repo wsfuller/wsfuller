@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Why are you the way that you are?"
+> "I wonder what people like about me. Probably my jugs."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Phyllis Vance</cite>
