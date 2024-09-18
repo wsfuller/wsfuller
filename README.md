@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
 >
 > &mdash; <cite>Michael Scott</cite>
