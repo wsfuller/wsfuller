@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Should have burned this place down when I had a chance."
+> "Michael is leaving. And apparently, they've already hired a new manager. And we're meeting him today! It's a lot to proces"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>paperwork-wise.”</cite>
