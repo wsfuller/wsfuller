@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Yes, I have a dream, and it's not some MLK dream for equality. I want to own a decommissioned lighthouse. And I want to live at the top. And nobody knows I live there. And there's a button that I can press, and launch that lighthouse into space."
+> "Yeah, I'm not a temp anymore. I got Jim's old job. Which means at my 10-year high school reunion, it will not say ‘Ryan Howard is a temp.' It will say, ‘Ryan Howard is a junior sales associate at a mid-range paper supply firm.' That'll show 'em."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Ryan Howard</cite>
