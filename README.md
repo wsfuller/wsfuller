@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "Who says exactly what they're thinking? What kind of a game is that?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
