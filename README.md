@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
+> "I'm guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes. Pennies. Walnuts."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Pam Beesley</cite>
