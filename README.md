@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Oh, you're paying way too much for worms, man. Who's your worm guy?"
+> "Boy, have you done lost your mind? Cause I'll help you find it!"
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Stanley Hudson</cite>
