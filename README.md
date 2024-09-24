@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. Just one stunning, gorgeous cartwheel."
+> "I am about to do something very bold in this job that I've never done before: try."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Jim Halpert</cite>
