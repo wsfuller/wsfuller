@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Creed Bratton</cite>
