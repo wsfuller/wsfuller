@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Let me show you how a real man walks a flaccid cord."
+> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Creed Bratton</cite>
