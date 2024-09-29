@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Fool me once, strike one. But fool me twice...strike three."
+> "I don't hate it. I just don't like it at all. And it's terrible."
 >
 > &mdash; <cite>Michael Scott</cite>
