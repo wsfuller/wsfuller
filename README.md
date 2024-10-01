@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Today, smoking is going to save lives."
+> "Why are you the way that you are?"
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Michael Scott</cite>
