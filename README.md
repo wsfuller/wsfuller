@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I find the mystery genre disgusting. I hate being titillated."
+> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Michael Scott</cite>
