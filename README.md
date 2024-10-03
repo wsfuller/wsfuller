@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Any man who says he totally understands women is a fool. Because they are un-understandable."
+> "When you're a kid, you assume your parents are soulmates. My kids are going to be right about that."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Pam Beesley</cite>
