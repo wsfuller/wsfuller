@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm not superstitious...but I'm a little stitious."
+> "If I can't scuba, then what's this all been about? What am I working toward?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Creed Bratton</cite>
