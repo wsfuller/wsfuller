@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Well, this is what happened. Ryan's big project was the website, which wasn't doing so well. So Ryan, to give the impression of sales, recorded them twice. Once as office sales and once in the website sales, which is what we refer to in the business as 'misleading the shareholders.' Another good term is 'fraud.' The real crime, I think, was the beard."
+> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
 >
-> &mdash; <cite>Oscar Martinez</cite>
+> &mdash; <cite>Jim Halpert</cite>
