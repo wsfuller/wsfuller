@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "Who says exactly what they're thinking? What kind of a game is that?"
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
