@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sorry I annoyed you with my friendship."
+> "I am about to do something very bold in this job that I've never done before: try."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Jim Halpert</cite>
