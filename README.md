@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When you're a kid, you assume your parents are soulmates. My kids are going to be right about that."
+> "Sometimes I get so bored, I just want to scream. And then sometimes, I actually do scream. I just sort of feel out what the situation calls for."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
