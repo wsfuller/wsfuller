@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
+> "I'm not superstitious...but I'm a little stitious."
 >
 > &mdash; <cite>Michael Scott</cite>
