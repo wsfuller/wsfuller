@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
 > &mdash; <cite>Michael Scott</cite>
