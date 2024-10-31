@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day."
+> "Stanley just drank OJ out of my mug and didn't seem to realize that it wasn't his hot coffee. So, the question has to be asked: Is there no limit to what he won't notice?"
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Jim Halpert</cite>
