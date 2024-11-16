@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "We didn't play many video games in Scranton. Instead, we'd do stuff like… uh, Pam and I would sometimes hum the same high-pitched note and try to get Dwight to make an appointment with an ear doctor. And, uh, Pam called it 'Pretendinitus.'"
+> "How is it possible that in five years, I've had two engagements and only one chair?"
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Pam Beesley</cite>
