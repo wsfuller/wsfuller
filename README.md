@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I don't hate it. I just don't like it at all. And it's terrible."
+> "Yes, I have a dream, and it's not some MLK dream for equality. I want to own a decommissioned lighthouse. And I want to live at the top. And nobody knows I live there. And there's a button that I can press, and launch that lighthouse into space."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Stanley Hudson</cite>
