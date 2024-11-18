@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I were buying my coffin, I would get one with thicker walls so you couldn't hear the other dead people."
+> "I don't hate it. I just don't like it at all. And it's terrible."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Michael Scott</cite>
