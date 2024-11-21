@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wish there was a way to know you're in the good old days before you've actually left them."
+> "The Dunder Mifflin stock symbol is D.M.I. Do you know what that stands for? Dummies, Morons, and Idiots. Because that's what you'd have to be to own it. And as one of those idiots, I believe the board owes me answers."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Oscar Martinez</cite>
