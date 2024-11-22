@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Close your mouth, sweetie. You look like a trout."
+> "I never thought I'd say this, but I think I ate too much bone marrow."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Dwight Schrute</cite>
