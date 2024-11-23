@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Don't worry about Phil. He drives a Corvette, he's doing just fine."
+> "Rit-dit-dit-do-doo!"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Andy Bernard</cite>
