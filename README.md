@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Kevin Malone</cite>
