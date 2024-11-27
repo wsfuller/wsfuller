@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Dwight mercy-killed Angela's cat."
+> "I'm fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Dwight Schrute</cite>
