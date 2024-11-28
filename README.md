@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I can't scuba, then what's this all been about? What am I working toward?"
+> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
 >
 > &mdash; <cite>Creed Bratton</cite>
