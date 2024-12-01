@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Yeah, I have a lot of questions. First of all: How dare you?"
+> "Me think, why waste time say lot word, when few word do trick?"
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Kevin Malone</cite>
