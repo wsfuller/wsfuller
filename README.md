@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "I am about to do something very bold in this job that I've never done before: try."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Jim Halpert</cite>
