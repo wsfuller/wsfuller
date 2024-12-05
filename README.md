@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
+> "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Stanley Hudson</cite>
