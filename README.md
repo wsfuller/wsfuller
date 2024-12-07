@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."
+> "I am Beyoncé, always."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Michael Scott</cite>
