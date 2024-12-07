@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I got six numbers. One more, and it would have been a complete phone number."
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Michael Scott</cite>
