@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "How is it possible that in five years, I've had two engagements and only one chair?"
+> "Should have burned this place down when I had a chance."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Michael Scott</cite>
