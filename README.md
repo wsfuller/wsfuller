@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "PowerPoints are the peacocks of the business world; all show, no meat."
+> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Creed Bratton</cite>
