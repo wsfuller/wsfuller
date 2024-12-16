@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wish there was a way to know you're in the good old days before you've actually left them."
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Michael Scott</cite>
