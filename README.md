@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
+> "You know what they say about a car wreck, where it's so awful you can't look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making you."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Pam Beesley</cite>
