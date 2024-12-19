@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bob Vance, Vance Refrigeration."
+> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Kevin Malone</cite>
