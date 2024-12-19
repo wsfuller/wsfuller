@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. Just one stunning, gorgeous cartwheel."
+> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Kevin Malone</cite>
