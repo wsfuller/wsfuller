@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
+> "If I were buying my coffin, I would get one with thicker walls so you couldn't hear the other dead people."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Dwight Schrute</cite>
