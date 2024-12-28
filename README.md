@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Mind if I steal my wife?"
+> "Bears, beets, Battlestar Galactica."
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Jim Halpert (pretending to be Dwight)</cite>
