@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "How is it possible that in five years, I've had two engagements and only one chair?"
+> "I find the mystery genre disgusting. I hate being titillated."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Angela Martin</cite>
