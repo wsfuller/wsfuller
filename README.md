@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I would say I kind of have an unfair advantage, because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers."
+> "Right now, this is just a job. If I advance any higher in this company, this would be my career. And, uh, well if this were my career, I'd have to throw myself in front of a train."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Jim Halpert</cite>
