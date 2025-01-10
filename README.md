@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I say dance, they say, ‘How high?'"
+> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Andy Bernard</cite>
