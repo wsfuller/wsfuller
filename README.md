@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sometimes I get so bored, I just want to scream. And then sometimes, I actually do scream. I just sort of feel out what the situation calls for."
+> "Mind if I steal my wife?"
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Bob Vance</cite>
