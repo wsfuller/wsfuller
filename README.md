@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I talk a lot, so I've learned to just tune myself out..."
+> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Jim Halpert</cite>
