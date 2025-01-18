@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Who is Justice Beaver?"
+> "There are always a million reasons not to do something."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Jan Levinson</cite>
