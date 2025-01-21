@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I have been trying to get on jury duty every year since I was 18 years old. To get to go sit in an air-conditioned room, downtown, judging people, while my lunch is paid for… that is the life."
+> "Well, this is what happened. Ryan's big project was the website, which wasn't doing so well. So Ryan, to give the impression of sales, recorded them twice. Once as office sales and once in the website sales, which is what we refer to in the business as 'misleading the shareholders.' Another good term is 'fraud.' The real crime, I think, was the beard."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Oscar Martinez</cite>
