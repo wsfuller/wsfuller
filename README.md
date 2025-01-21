@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell him to call me ASAP as possible."
+> "I'm not superstitious...but I'm a little stitious."
 >
 > &mdash; <cite>Michael Scott</cite>
