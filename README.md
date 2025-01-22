@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am a black belt in gift wrapping."
+> "I say dance, they say, ‘How high?'"
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Michael Scott</cite>
