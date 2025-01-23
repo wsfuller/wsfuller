@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bob Vance, Vance Refrigeration."
+> "Don't worry about Phil. He drives a Corvette, he's doing just fine."
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Michael Scott</cite>
