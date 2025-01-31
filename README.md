@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> ""The worst thing about prison was the Dementors."
+> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
 >
-> &mdash; <cite>Prison Mike</cite>
+> &mdash; <cite>Kevin Malone</cite>
