@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "It's true. Around this office, in the past, I have been a little abrupt with people. But the doctor said, if I can't find a new way to relate more positively to my surroundings, I'm going to die."
+> "Oh, I don't think it's blackmail. Angela just does what I ask her to do, so I won't tell everyone that she's cheating on Andy with Dwight. I think for it to be blackmail, it would have to be a formal letter."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Phyllis Vance</cite>
