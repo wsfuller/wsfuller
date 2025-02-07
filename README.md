@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I guess I've been working so hard, I forgot what it's like to be hardly working."
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
 > &mdash; <cite>Michael Scott</cite>
