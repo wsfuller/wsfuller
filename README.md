@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "You know what they say about a car wreck, where it's so awful you can't look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making you."
+> "Whenever I'm about to do something, I think, 'Would an idiot do that?' and if they would, I do not do that thing."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Dwight Schrute</cite>
