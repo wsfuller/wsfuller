@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am about to do something very bold in this job that I've never done before: try."
+> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Creed Bratton</cite>
