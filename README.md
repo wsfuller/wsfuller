@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> ""I stopped caring a long time ago."
+> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Phyllis Vance</cite>
