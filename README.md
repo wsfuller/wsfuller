@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I love inside jokes. I'd love to be a part of one someday."
+> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Creed Bratton</cite>
