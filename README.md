@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Let me show you how a real man walks a flaccid cord."
+> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Creed Bratton</cite>
