@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Michael is leaving. And apparently, they've already hired a new manager. And we're meeting him today! It's a lot to proces"
+> "Me think, why waste time say lot word, when few word do trick?"
 >
-> &mdash; <cite>paperwork-wise.”</cite>
+> &mdash; <cite>Kevin Malone</cite>
