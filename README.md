@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Right now, this is just a job. If I advance any higher in this company, this would be my career. And, uh, well if this were my career, I'd have to throw myself in front of a train."
+> "It's true. Around this office, in the past, I have been a little abrupt with people. But the doctor said, if I can't find a new way to relate more positively to my surroundings, I'm going to die."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Stanley Hudson</cite>
