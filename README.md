@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "You guys I'm, like, really smart now. You don't even know. You could ask me, 'Kelly, what's the biggest company in the world?' And I'd be like, 'blah blah blah, blah blah blah blah blah blah.' Giving you the exact right answer."
+> "The Dunder Mifflin stock symbol is D.M.I. Do you know what that stands for? Dummies, Morons, and Idiots. Because that's what you'd have to be to own it. And as one of those idiots, I believe the board owes me answers."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Oscar Martinez</cite>
