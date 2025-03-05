@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
+> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Kevin Malone</cite>
