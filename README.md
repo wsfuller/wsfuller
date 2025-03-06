@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Let me show you how a real man walks a flaccid cord."
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Kevin Malone</cite>
