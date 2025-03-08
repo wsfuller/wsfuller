@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bob Vance, Vance Refrigeration."
+> "Today, smoking is going to save lives."
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Dwight Schrute</cite>
