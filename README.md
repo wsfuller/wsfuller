@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am proud to announce that there is a new addition to the Martin family. She's hypoallergenic. She doesn't struggle when you try to dress her. She's a third-generation show cat. Her father was in Meet the Parents. Needless to say, she was very, very expensive."
+> "It's true. Around this office, in the past, I have been a little abrupt with people. But the doctor said, if I can't find a new way to relate more positively to my surroundings, I'm going to die."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Stanley Hudson</cite>
