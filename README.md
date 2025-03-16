@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I have been trying to get on jury duty every year since I was 18 years old. To get to go sit in an air-conditioned room, downtown, judging people, while my lunch is paid for… that is the life."
+> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Jim Halpert</cite>
