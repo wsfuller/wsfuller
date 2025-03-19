@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sorry I annoyed you with my friendship."
+> "I talk a lot, so I've learned to just tune myself out..."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
