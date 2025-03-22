@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Rit-dit-dit-do-doo!"
+> "I don't want to be married in a tent like a hobo."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Angela Martin</cite>
