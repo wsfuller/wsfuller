@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I normally don't enjoy making people laugh."
+> "If I can't scuba, then what's this all been about? What am I working toward?"
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Creed Bratton</cite>
