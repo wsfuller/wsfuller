@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I can't scuba, then what's this all been about? What am I working toward?"
+> ""I stopped caring a long time ago."
 >
 > &mdash; <cite>Creed Bratton</cite>
