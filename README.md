@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "How is it possible that in five years, I've had two engagements and only one chair?"
+> "Me think, why waste time say lot word, when few word do trick?"
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Kevin Malone</cite>
