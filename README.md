@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Whenever I'm about to do something, I think, 'Would an idiot do that?' and if they would, I do not do that thing."
+> "I knew exactly what to do. But in a much more real sense, I had no idea what to do."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Michael Scott</cite>
