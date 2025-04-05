@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I were buying my coffin, I would get one with thicker walls so you couldn't hear the other dead people."
+> "I am faster than 80 percent of all snakes."
 >
 > &mdash; <cite>Dwight Schrute</cite>
