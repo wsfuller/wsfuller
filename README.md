@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes. Pennies. Walnuts."
+> "I guess I've been working so hard, I forgot what it's like to be hardly working."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Michael Scott</cite>
