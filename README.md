@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
+> "Guess what, I have flaws. What are they? Oh, I don't know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I'll hit somebody with my car. So sue me...no, don't sue me. That is the opposite of the point that I'm trying to make."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Michael Scott</cite>
