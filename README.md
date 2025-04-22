@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I have been trying to get on jury duty every year since I was 18 years old. To get to go sit in an air-conditioned room, downtown, judging people, while my lunch is paid for… that is the life."
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Michael Scott</cite>
