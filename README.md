@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell him to call me ASAP as possible."
+> "Tell ya one thing, I'm not gonna be a good mom tonight."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Meredith</cite>
