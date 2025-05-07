@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Any man who says he totally understands women is a fool. Because they are un-understandable."
+> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
 >
 > &mdash; <cite>Michael Scott</cite>
