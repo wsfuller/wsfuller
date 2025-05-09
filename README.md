@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
+> "Boy, have you done lost your mind? Cause I'll help you find it!"
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Stanley Hudson</cite>
