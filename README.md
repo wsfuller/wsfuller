@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I love inside jokes. I'd love to be a part of one someday."
+> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
 >
 > &mdash; <cite>Michael Scott</cite>
