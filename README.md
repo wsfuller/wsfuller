@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "I am about to do something very bold in this job that I've never done before: try."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Jim Halpert</cite>
