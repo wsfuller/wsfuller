@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm not superstitious...but I'm a little stitious."
+> "Dwight mercy-killed Angela's cat."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Pam Beesley</cite>
