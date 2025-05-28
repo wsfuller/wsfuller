@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Stanley just drank OJ out of my mug and didn't seem to realize that it wasn't his hot coffee. So, the question has to be asked: Is there no limit to what he won't notice?"
+> "Whenever I'm about to do something, I think, 'Would an idiot do that?' and if they would, I do not do that thing."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Dwight Schrute</cite>
