@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I got six numbers. One more, and it would have been a complete phone number."
+> "There are always a million reasons not to do something."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Jan Levinson</cite>
