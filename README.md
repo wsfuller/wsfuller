@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Any man who says he totally understands women is a fool. Because they are un-understandable."
+> "If I can't scuba, then what's this all been about? What am I working toward?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Creed Bratton</cite>
