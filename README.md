@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "We didn't play many video games in Scranton. Instead, we'd do stuff like… uh, Pam and I would sometimes hum the same high-pitched note and try to get Dwight to make an appointment with an ear doctor. And, uh, Pam called it 'Pretendinitus.'"
+> "I would say I kind of have an unfair advantage, because I watch reality dating shows like a hawk, and I learn. I absorb information from the strategies of the winners and the losers. Actually, I probably learn more from the losers."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Michael Scott</cite>
