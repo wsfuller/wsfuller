@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Close your mouth, sweetie. You look like a trout."
+> "And I feel God in this Chili's tonight."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Pam Beesley</cite>
