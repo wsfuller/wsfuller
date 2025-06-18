@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "A few years ago, my family was on a safari in Africa and my cousin, Mufasa, was um, he was trampled to death by a pack of wildebeests and um, we all took it really hard."
+> "Who's the one who didn't bring lice into the office? Meredith. Sure, I gave everybody pink eye once, and my ex keyed a few of their cars, and yeah, I BMed in the shredder on New Year's. But I didn't bring the lice in. That was all Pam."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Meredith</cite>
