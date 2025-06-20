@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "There are always a million reasons not to do something."
+> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
 >
-> &mdash; <cite>Jan Levinson</cite>
+> &mdash; <cite>Kevin Malone</cite>
