@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked. But it's not like, this compulsive need to be liked, like my need to be praised."
+> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Kevin Malone</cite>
