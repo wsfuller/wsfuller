@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Do I need to be liked? Absolutely not. I like to be liked. I enjoy being liked. I have to be liked. But it's not like, this compulsive need to be liked, like my need to be praised."
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
 > &mdash; <cite>Michael Scott</cite>
