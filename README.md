@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I hate the idea that someone out there hates me. I even hate thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me."
+> "I knew exactly what to do. But in a much more real sense, I had no idea what to do."
 >
-> &mdash; <cite>Pam Beesly</cite>
+> &mdash; <cite>Michael Scott</cite>
