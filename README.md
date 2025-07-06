@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bob Vance, Vance Refrigeration."
+> "Mind if I steal my wife?"
 >
 > &mdash; <cite>Bob Vance</cite>
