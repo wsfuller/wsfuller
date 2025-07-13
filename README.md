@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am about to do something very bold in this job that I've never done before: try."
+> "Rit-dit-dit-do-doo!"
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Andy Bernard</cite>
