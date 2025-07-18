@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I miss the days when there was only one party I didn't want to go to."
+> "Tell ya one thing, I'm not gonna be a good mom tonight."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Meredith</cite>
