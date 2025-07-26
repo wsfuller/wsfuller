@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
+> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Angela Martin</cite>
