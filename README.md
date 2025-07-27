@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
+> "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Creed Bratton</cite>
