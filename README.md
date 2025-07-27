@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wonder what people like about me. Probably my jugs."
+> "We didn't play many video games in Scranton. Instead, we'd do stuff like… uh, Pam and I would sometimes hum the same high-pitched note and try to get Dwight to make an appointment with an ear doctor. And, uh, Pam called it 'Pretendinitus.'"
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Jim Halpert</cite>
