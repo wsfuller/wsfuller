@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Kevin Malone</cite>
