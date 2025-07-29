@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Dwight mercy-killed Angela's cat."
+> "Tell ya one thing, I'm not gonna be a good mom tonight."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Meredith</cite>
