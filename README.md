@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Phyllis Vance</cite>
