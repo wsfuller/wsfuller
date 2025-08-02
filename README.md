@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
+> "There's a lot of beauty in ordinary things. Isn't that kind of the point?"
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Pam Beesly</cite>
