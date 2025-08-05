@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
+> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Creed Bratton</cite>
