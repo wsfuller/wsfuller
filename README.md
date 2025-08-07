@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sorry I annoyed you with my friendship."
+> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Kevin Malone</cite>
