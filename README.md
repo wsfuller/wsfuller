@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
 > &mdash; <cite>Kevin Malone</cite>
