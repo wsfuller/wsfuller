@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "There are always a million reasons not to do something."
+> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
 >
-> &mdash; <cite>Jan Levinson</cite>
+> &mdash; <cite>Creed Bratton</cite>
