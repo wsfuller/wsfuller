@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "You know what they say about a car wreck, where it's so awful you can't look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making you."
+> "We didn't play many video games in Scranton. Instead, we'd do stuff like… uh, Pam and I would sometimes hum the same high-pitched note and try to get Dwight to make an appointment with an ear doctor. And, uh, Pam called it 'Pretendinitus.'"
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Jim Halpert</cite>
