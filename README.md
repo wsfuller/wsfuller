@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am running away from my responsibilities. And it feels good."
+> "Tell ya one thing, I'm not gonna be a good mom tonight."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Meredith</cite>
