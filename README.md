@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Yes, I have a dream, and it's not some MLK dream for equality. I want to own a decommissioned lighthouse. And I want to live at the top. And nobody knows I live there. And there's a button that I can press, and launch that lighthouse into space."
+> "Any man who says he totally understands women is a fool. Because they are un-understandable."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Michael Scott</cite>
