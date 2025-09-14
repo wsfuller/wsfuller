@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "There are always a million reasons not to do something."
+> "I wonder what people like about me. Probably my jugs."
 >
-> &mdash; <cite>Jan Levinson</cite>
+> &mdash; <cite>Phyllis Vance</cite>
