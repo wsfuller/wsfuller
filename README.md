@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am about to do something very bold in this job that I've never done before: try."
+> "When you're a kid, you assume your parents are soulmates. My kids are going to be right about that."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Pam Beesley</cite>
