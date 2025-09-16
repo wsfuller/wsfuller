@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I got six numbers. One more, and it would have been a complete phone number."
+> "Right now, this is just a job. If I advance any higher in this company, this would be my career. And, uh, well if this were my career, I'd have to throw myself in front of a train."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Jim Halpert</cite>
