@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Mind if I steal my wife?"
+> "I'm guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes. Pennies. Walnuts."
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Pam Beesley</cite>
