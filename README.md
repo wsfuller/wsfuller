@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
+> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
 >
 > &mdash; <cite>Creed Bratton</cite>
