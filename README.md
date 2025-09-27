@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Who is Justice Beaver?"
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Michael Scott</cite>
