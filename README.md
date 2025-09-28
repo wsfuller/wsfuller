@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I find the mystery genre disgusting. I hate being titillated."
+> "News flash: You are not special."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Stanley Hudson</cite>
