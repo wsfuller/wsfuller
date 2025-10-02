@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "PowerPoints are the peacocks of the business world; all show, no meat."
+> "Who says exactly what they're thinking? What kind of a game is that?"
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
