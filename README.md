@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "Any man who says he totally understands women is a fool. Because they are un-understandable."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Michael Scott</cite>
