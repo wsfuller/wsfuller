@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "We didn't play many video games in Scranton. Instead, we'd do stuff like… uh, Pam and I would sometimes hum the same high-pitched note and try to get Dwight to make an appointment with an ear doctor. And, uh, Pam called it 'Pretendinitus.'"
+> "I wish there was a way to know you're in the good old days before you've actually left them."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Andy Bernard</cite>
