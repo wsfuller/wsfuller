@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
+> "Oh, you're paying way too much for worms, man. Who's your worm guy?"
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Creed Bratton</cite>
