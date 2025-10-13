@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Oh, you're paying way too much for worms, man. Who's your worm guy?"
+> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Jim Halpert</cite>
