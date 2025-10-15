@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Close your mouth, sweetie. You look like a trout."
+> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Michael Scott</cite>
