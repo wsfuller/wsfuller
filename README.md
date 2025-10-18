@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I consider myself a good person...but I'm gonna try to make him cry."
+> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
 >
-> &mdash; <cite>Oscar Martinez</cite>
+> &mdash; <cite>Michael Scott</cite>
