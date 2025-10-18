@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am about to do something very bold in this job that I've never done before: try."
+> "I don't hate it. I just don't like it at all. And it's terrible."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Michael Scott</cite>
