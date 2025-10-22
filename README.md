@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Mind if I steal my wife?"
+> "Rit-dit-dit-do-doo!"
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Andy Bernard</cite>
