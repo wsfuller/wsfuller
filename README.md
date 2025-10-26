@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> ""The worst thing about prison was the Dementors."
+> "Let me show you how a real man walks a flaccid cord."
 >
-> &mdash; <cite>Prison Mike</cite>
+> &mdash; <cite>Dwight Schrute</cite>
