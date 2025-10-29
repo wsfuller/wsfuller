@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Any man who says he totally understands women is a fool. Because they are un-understandable."
+> "I'm guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes. Pennies. Walnuts."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Pam Beesley</cite>
