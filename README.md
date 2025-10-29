@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am running away from my responsibilities. And it feels good."
+> "I normally don't enjoy making people laugh."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Angela Martin</cite>
