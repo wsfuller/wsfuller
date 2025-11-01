@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "Oh, you're paying way too much for worms, man. Who's your worm guy?"
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Creed Bratton</cite>
