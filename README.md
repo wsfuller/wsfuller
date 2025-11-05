@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sometimes I get so bored, I just want to scream. And then sometimes, I actually do scream. I just sort of feel out what the situation calls for."
+> "I am proud to announce that there is a new addition to the Martin family. She's hypoallergenic. She doesn't struggle when you try to dress her. She's a third-generation show cat. Her father was in Meet the Parents. Needless to say, she was very, very expensive."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Angela Martin</cite>
