@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "Close your mouth, sweetie. You look like a trout."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Phyllis Vance</cite>
