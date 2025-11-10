@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "Boy, have you done lost your mind? Cause I'll help you find it!"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Stanley Hudson</cite>
