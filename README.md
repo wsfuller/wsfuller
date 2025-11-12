@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
+> "Me think, why waste time say lot word, when few word do trick?"
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Kevin Malone</cite>
