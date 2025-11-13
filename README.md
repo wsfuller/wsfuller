@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I don't want to be married in a tent like a hobo."
+> "Close your mouth, sweetie. You look like a trout."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Phyllis Vance</cite>
