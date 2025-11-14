@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I can't scuba, then what's this all been about? What am I working toward?"
+> "I mean, I'm not a slut, but, who knows!"
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
