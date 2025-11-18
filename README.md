@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wake up every morning in a bed that's too small, drive my daughter to a school that's too expensive, and then I go to work to a job for which I get paid too little. But on pretzel day? Well, I like pretzel day."
+> "You guys I'm, like, really smart now. You don't even know. You could ask me, 'Kelly, what's the biggest company in the world?' And I'd be like, 'blah blah blah, blah blah blah blah blah blah.' Giving you the exact right answer."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
