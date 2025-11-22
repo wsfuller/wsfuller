@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Bears, beets, Battlestar Galactica."
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Jim Halpert (pretending to be Dwight)</cite>
+> &mdash; <cite>Kevin Malone</cite>
