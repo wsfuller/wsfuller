@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "And I feel God in this Chili's tonight."
+> "I don't want to be married in a tent like a hobo."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Angela Martin</cite>
