@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "I wonder what people like about me. Probably my jugs."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Phyllis Vance</cite>
