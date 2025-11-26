@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm an early bird and I'm a night owl. So I'm wise, and I have worms."
+> "I don't hate it. I just don't like it at all. And it's terrible."
 >
 > &mdash; <cite>Michael Scott</cite>
