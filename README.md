@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
+> "I mean, I'm not a slut, but, who knows!"
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
