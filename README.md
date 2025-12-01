@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
+> "Me think, why waste time say lot word, when few word do trick?"
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Kevin Malone</cite>
