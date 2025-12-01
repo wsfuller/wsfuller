@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "There's a lot of beauty in ordinary things. Isn't that kind of the point?"
+> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
 >
-> &mdash; <cite>Pam Beesly</cite>
+> &mdash; <cite>Michael Scott</cite>
