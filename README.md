@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I got six numbers. One more, and it would have been a complete phone number."
+> "Should have burned this place down when I had a chance."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Michael Scott</cite>
