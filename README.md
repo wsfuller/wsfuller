@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Yeah, I have a lot of questions. First of all: How dare you?"
+> "I normally don't enjoy making people laugh."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Angela Martin</cite>
