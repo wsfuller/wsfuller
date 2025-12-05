@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
+> "I don't want to be married in a tent like a hobo."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Angela Martin</cite>
