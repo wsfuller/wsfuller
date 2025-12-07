@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
+> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Michael Scott</cite>
