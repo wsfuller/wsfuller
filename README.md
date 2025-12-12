@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
+> "A few years ago, my family was on a safari in Africa and my cousin, Mufasa, was um, he was trampled to death by a pack of wildebeests and um, we all took it really hard."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Ryan Howard</cite>
