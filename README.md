@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Close your mouth, sweetie. You look like a trout."
+> "I normally don't enjoy making people laugh."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Angela Martin</cite>
