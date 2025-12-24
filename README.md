@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Dwight mercy-killed Angela's cat."
+> "I love inside jokes. I'd love to be a part of one someday."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Michael Scott</cite>
