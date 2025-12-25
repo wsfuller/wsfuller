@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "I wish there was a way to know you're in the good old days before you've actually left them."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Andy Bernard</cite>
