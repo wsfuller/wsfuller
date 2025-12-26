@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> ""I stopped caring a long time ago."
+> "Close your mouth, sweetie. You look like a trout."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Phyllis Vance</cite>
