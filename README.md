@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I talk a lot, so I've learned to just tune myself out..."
+> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Michael Scott</cite>
