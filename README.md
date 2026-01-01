@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Should have burned this place down when I had a chance."
+> "I find the mystery genre disgusting. I hate being titillated."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Angela Martin</cite>
