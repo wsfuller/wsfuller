@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wonder what people like about me. Probably my jugs."
+> "If I can't scuba, then what's this all been about? What am I working toward?"
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Creed Bratton</cite>
