@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Close your mouth, sweetie. You look like a trout."
+> "Why are you the way that you are?"
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Michael Scott</cite>
