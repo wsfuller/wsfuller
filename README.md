@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Oh, I don't think it's blackmail. Angela just does what I ask her to do, so I won't tell everyone that she's cheating on Andy with Dwight. I think for it to be blackmail, it would have to be a formal letter."
+> "I've been involved in a number of cults, both a leader and a follower. You have more fun as a follower, but you make more money as a leader."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Creed Bratton</cite>
