@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I hate the idea that someone out there hates me. I even hate thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me."
+> "If I were buying my coffin, I would get one with thicker walls so you couldn't hear the other dead people."
 >
-> &mdash; <cite>Pam Beesly</cite>
+> &mdash; <cite>Dwight Schrute</cite>
