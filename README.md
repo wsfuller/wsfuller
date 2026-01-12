@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wonder what people like about me. Probably my jugs."
+> "I talk a lot, so I've learned to just tune myself out..."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
