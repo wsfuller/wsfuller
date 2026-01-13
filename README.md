@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
+> "Let me show you how a real man walks a flaccid cord."
 >
-> &mdash; <cite>Andy Bernard</cite>
+> &mdash; <cite>Dwight Schrute</cite>
