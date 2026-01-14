@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wanna do a cartwheel. But real casual-like. Not enough to make a big deal out of it, but I know everyone saw it. Just one stunning, gorgeous cartwheel."
+> "Who's the one who didn't bring lice into the office? Meredith. Sure, I gave everybody pink eye once, and my ex keyed a few of their cars, and yeah, I BMed in the shredder on New Year's. But I didn't bring the lice in. That was all Pam."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Meredith</cite>
