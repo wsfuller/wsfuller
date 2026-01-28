@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I consider myself a good person...but I'm gonna try to make him cry."
+> "Don't worry about Phil. He drives a Corvette, he's doing just fine."
 >
-> &mdash; <cite>Oscar Martinez</cite>
+> &mdash; <cite>Michael Scott</cite>
