@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm glad Michael's getting help. He has a lot of issues, and he's stupid."
+> "You guys I'm, like, really smart now. You don't even know. You could ask me, 'Kelly, what's the biggest company in the world?' And I'd be like, 'blah blah blah, blah blah blah blah blah blah.' Giving you the exact right answer."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
