@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I wonder what people like about me. Probably my jugs."
+> "I'm fast. To give you a reference point. I'm somewhere between a snake and a mongoose. And a panther."
 >
-> &mdash; <cite>Phyllis Vance</cite>
+> &mdash; <cite>Dwight Schrute</cite>
