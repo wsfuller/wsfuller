@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "I hate the idea that someone out there hates me. I even hate thinking that al-Qaeda hates me. I think if they got to know me, they wouldn't hate me."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Pam Beesly</cite>
