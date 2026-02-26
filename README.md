@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Ain't no party like a Scranton party cause a Scranton party don't stop!"
+> "Guess what, I have flaws. What are they? Oh, I don't know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I'll hit somebody with my car. So sue me...no, don't sue me. That is the opposite of the point that I'm trying to make."
 >
 > &mdash; <cite>Michael Scott</cite>
