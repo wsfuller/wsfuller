@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "Whenever I'm about to do something, I think, 'Would an idiot do that?' and if they would, I do not do that thing."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Dwight Schrute</cite>
