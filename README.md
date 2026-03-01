@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "PowerPoints are the peacocks of the business world; all show, no meat."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Dwight Schrute</cite>
