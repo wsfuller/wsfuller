@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When Pam gets Michael's old chair, I get Pam's old chair. Then I'll have two chairs. Only one to go."
+> "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."
 >
 > &mdash; <cite>Creed Bratton</cite>
