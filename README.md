@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I can't scuba, then what's this all been about? What am I working toward?"
+> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Michael Scott</cite>
