@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> ""I stopped caring a long time ago."
+> "I wonder what people like about me. Probably my jugs."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Phyllis Vance</cite>
