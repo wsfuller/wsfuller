@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "Don't worry about Phil. He drives a Corvette, he's doing just fine."
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Michael Scott</cite>
