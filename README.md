@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "One day Michael came in and complained about a speed bump on the highway...I wonder who he ran over then."
+> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Kevin Malone</cite>
