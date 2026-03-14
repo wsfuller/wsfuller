@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "There are always a million reasons not to do something."
+> "I'm always thinking one step ahead, like a...carpenter that makes stairs."
 >
-> &mdash; <cite>Jan Levinson</cite>
+> &mdash; <cite>Andy Bernard</cite>
