@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I am about to do something very bold in this job that I've never done before: try."
+> "I'm guessing Angela is the one in the neighborhood that gives the trick-or-treaters toothbrushes. Pennies. Walnuts."
 >
-> &mdash; <cite>Jim Halpert</cite>
+> &mdash; <cite>Pam Beesley</cite>
