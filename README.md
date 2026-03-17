@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
+> "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Creed Bratton</cite>
