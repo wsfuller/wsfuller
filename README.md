@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I'm not superstitious...but I'm a little stitious."
+> "I love inside jokes. I'd love to be a part of one someday."
 >
 > &mdash; <cite>Michael Scott</cite>
