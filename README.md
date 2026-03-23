@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I understand nothing."
+> "Bears, beets, Battlestar Galactica."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Jim Halpert (pretending to be Dwight)</cite>
