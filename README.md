@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Don't worry about Phil. He drives a Corvette, he's doing just fine."
+> "I never thought I'd say this, but I think I ate too much bone marrow."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Dwight Schrute</cite>
