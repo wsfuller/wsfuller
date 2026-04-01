@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "You know what they say about a car wreck, where it's so awful you can't look away? The Dundies are like a car wreck that you want to look away from, but you have to stare at it because your boss is making you."
+> "Yeah, I'm not a temp anymore. I got Jim's old job. Which means at my 10-year high school reunion, it will not say ‘Ryan Howard is a temp.' It will say, ‘Ryan Howard is a junior sales associate at a mid-range paper supply firm.' That'll show 'em."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Ryan Howard</cite>
