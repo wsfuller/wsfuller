@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I don't have some cake soon, I might die."
+> "There's a lot of beauty in ordinary things. Isn't that kind of the point?"
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Pam Beesly</cite>
