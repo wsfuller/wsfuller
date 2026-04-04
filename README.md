@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Sometimes the clothes at Gap Kids are just too flashy. So I'm forced to go to the American Girl store and order clothes for large colonial dolls."
+> "There are always a million reasons not to do something."
 >
-> &mdash; <cite>Angela Martin</cite>
+> &mdash; <cite>Jan Levinson</cite>
