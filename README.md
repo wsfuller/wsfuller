@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "Stanley just drank OJ out of my mug and didn't seem to realize that it wasn't his hot coffee. So, the question has to be asked: Is there no limit to what he won't notice?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Jim Halpert</cite>
