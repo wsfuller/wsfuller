@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Boy, have you done lost your mind? Cause I'll help you find it!"
+> "It's true. Around this office, in the past, I have been a little abrupt with people. But the doctor said, if I can't find a new way to relate more positively to my surroundings, I'm going to die."
 >
 > &mdash; <cite>Stanley Hudson</cite>
