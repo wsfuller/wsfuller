@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Well, this is what happened. Ryan's big project was the website, which wasn't doing so well. So Ryan, to give the impression of sales, recorded them twice. Once as office sales and once in the website sales, which is what we refer to in the business as 'misleading the shareholders.' Another good term is 'fraud.' The real crime, I think, was the beard."
+> "Yes, I have a dream, and it's not some MLK dream for equality. I want to own a decommissioned lighthouse. And I want to live at the top. And nobody knows I live there. And there's a button that I can press, and launch that lighthouse into space."
 >
-> &mdash; <cite>Oscar Martinez</cite>
+> &mdash; <cite>Stanley Hudson</cite>
