@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Dwight mercy-killed Angela's cat."
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Kevin Malone</cite>
