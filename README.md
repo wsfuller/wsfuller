@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Boy, have you done lost your mind? Cause I'll help you find it!"
+> "I don't want to be married in a tent like a hobo."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Angela Martin</cite>
