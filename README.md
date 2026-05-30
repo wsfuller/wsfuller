@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "And I feel God in this Chili's tonight."
+> "Let me show you how a real man walks a flaccid cord."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Dwight Schrute</cite>
