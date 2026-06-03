@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Me think, why waste time say lot word, when few word do trick?"
+> "If I can't scuba, then what's this all been about? What am I working toward?"
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Creed Bratton</cite>
