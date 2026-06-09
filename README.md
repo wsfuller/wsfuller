@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "If I don't have some cake soon, I might die."
+> "Let me show you how a real man walks a flaccid cord."
 >
-> &mdash; <cite>Stanley Hudson</cite>
+> &mdash; <cite>Dwight Schrute</cite>
