@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Yeah, I have a lot of questions. First of all: How dare you?"
+> "I talk a lot, so I've learned to just tune myself out..."
 >
 > &mdash; <cite>Kelly Kapoor</cite>
