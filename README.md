@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I never thought I'd say this, but I think I ate too much bone marrow."
+> "There's a lot of beauty in ordinary things. Isn't that kind of the point?"
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Pam Beesly</cite>
