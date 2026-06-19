@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "And I feel God in this Chili's tonight."
+> "I wish there was a way to know you're in the good old days before you've actually left them."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Andy Bernard</cite>
