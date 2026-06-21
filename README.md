@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I consider myself a good person...but I'm gonna try to make him cry."
+> "I don't want to be married in a tent like a hobo."
 >
-> &mdash; <cite>Oscar Martinez</cite>
+> &mdash; <cite>Angela Martin</cite>
