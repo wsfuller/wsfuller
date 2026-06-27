@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I got six numbers. One more, and it would have been a complete phone number."
+> "I wonder what people like about me. Probably my jugs."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Phyllis Vance</cite>
