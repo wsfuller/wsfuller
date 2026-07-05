@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Any man who says he totally understands women is a fool. Because they are un-understandable."
+> "Nobody steals from Creed Bratton and gets away with it. The last person to do this disappeared. His name? Creed Bratton."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Creed Bratton</cite>
