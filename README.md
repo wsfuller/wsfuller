@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "The only problem is whenever I try to make a taco, I get too excited and I crush it."
+> "I consider myself a good person...but I'm gonna try to make him cry."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Oscar Martinez</cite>
