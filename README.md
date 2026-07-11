@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Let me show you how a real man walks a flaccid cord."
+> "It's true. Around this office, in the past, I have been a little abrupt with people. But the doctor said, if I can't find a new way to relate more positively to my surroundings, I'm going to die."
 >
-> &mdash; <cite>Dwight Schrute</cite>
+> &mdash; <cite>Stanley Hudson</cite>
