@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When you're a kid, you assume your parents are soulmates. My kids are going to be right about that."
+> "Tell ya one thing, I'm not gonna be a good mom tonight."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Meredith</cite>
