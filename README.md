@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "When you're a kid, you assume your parents are soulmates. My kids are going to be right about that."
+> "I never thought I'd say this, but I think I ate too much bone marrow."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Dwight Schrute</cite>
