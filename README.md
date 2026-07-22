@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Guess what, I have flaws. What are they? Oh, I don't know. I sing in the shower. Sometimes I spend too much time volunteering. Occasionally I'll hit somebody with my car. So sue me...no, don't sue me. That is the opposite of the point that I'm trying to make."
+> "Oh, I don't think it's blackmail. Angela just does what I ask her to do, so I won't tell everyone that she's cheating on Andy with Dwight. I think for it to be blackmail, it would have to be a formal letter."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Phyllis Vance</cite>
