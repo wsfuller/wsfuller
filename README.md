@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I kinda know what it's like to be in commercials. My nickname in high school used to be Kool-Aid Man."
+> "Should have burned this place down when I had a chance."
 >
-> &mdash; <cite>Kevin Malone</cite>
+> &mdash; <cite>Michael Scott</cite>
