@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "How is it possible that in five years, I've had two engagements and only one chair?"
+> "Boy, have you done lost your mind? Cause I'll help you find it!"
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Stanley Hudson</cite>
