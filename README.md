@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I love inside jokes. I'd love to be a part of one someday."
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Kevin Malone</cite>
