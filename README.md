@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "There's a lot of beauty in ordinary things. Isn't that kind of the point?"
+> "Dwight, you ignorant slut."
 >
-> &mdash; <cite>Pam Beesly</cite>
+> &mdash; <cite>Michael Scott</cite>
