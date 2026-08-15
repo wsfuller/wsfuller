@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Who says exactly what they're thinking? What kind of a game is that?"
+> "I don't want to be married in a tent like a hobo."
 >
-> &mdash; <cite>Kelly Kapoor</cite>
+> &mdash; <cite>Angela Martin</cite>
