@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Would I rather be feared or loved? Easy. Both. I want people to be afraid of how much they love me."
+> "I normally don't enjoy making people laugh."
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Angela Martin</cite>
