@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "So you've come to the master for guidance? Is this what you're saying, grasshopper?"
+> "Yeah, I have a lot of questions. First of all: How dare you?"
 >
-> &mdash; <cite>Michael Scott</cite>
+> &mdash; <cite>Kelly Kapoor</cite>
