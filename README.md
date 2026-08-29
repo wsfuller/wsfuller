@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I already won the lottery. I was born in the US of A, baby. And as backup, I have a Swiss passport."
+> "Me think, why waste time say lot word, when few word do trick?"
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Kevin Malone</cite>
