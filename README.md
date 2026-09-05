@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "I miss the days when there was only one party I didn't want to go to."
+> "Close your mouth, sweetie. You look like a trout."
 >
-> &mdash; <cite>Ryan Howard</cite>
+> &mdash; <cite>Phyllis Vance</cite>
