@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> ""I stopped caring a long time ago."
+> "If I were buying my coffin, I would get one with thicker walls so you couldn't hear the other dead people."
 >
-> &mdash; <cite>Creed Bratton</cite>
+> &mdash; <cite>Dwight Schrute</cite>
