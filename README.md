@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Tell ya one thing, I'm not gonna be a good mom tonight."
+> "Mind if I steal my wife?"
 >
-> &mdash; <cite>Meredith</cite>
+> &mdash; <cite>Bob Vance</cite>
