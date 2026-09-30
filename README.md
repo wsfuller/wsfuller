@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "How is it possible that in five years, I've had two engagements and only one chair?"
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Pam Beesley</cite>
+> &mdash; <cite>Kevin Malone</cite>
