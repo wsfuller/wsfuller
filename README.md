@@ -64,6 +64,6 @@ So you might be wondering what is "wsfuller". Well I'm actually a William but I 
 
 #### 📺 Quote from The Office
 
-> "Mind if I steal my wife?"
+> "I got six numbers. One more, and it would have been a complete phone number."
 >
-> &mdash; <cite>Bob Vance</cite>
+> &mdash; <cite>Kevin Malone</cite>
